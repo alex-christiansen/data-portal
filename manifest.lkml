@@ -1,7 +1,7 @@
 project_name: "data-portal"
 
 application: data-portal {
-  label: "Data Portal"
+  label: "Example Data Portal"
   file: "dist/data-portal.js"
 
   entitlements: {
